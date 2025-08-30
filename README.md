@@ -1,13 +1,4 @@
 <div align="center">
-  .--.
- |o_o |
- |:_/ |
-//   \ \
-(|     | )
-/'_   /`
-
-_)=(/
-
 
 # ♛ C-Gang-Official ♛
 
